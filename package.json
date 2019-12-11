@@ -1,0 +1,24 @@
+{
+  "name": "FriendFinder",
+  "version": "1.0.0",
+  "description": "1. Your survey should have 10 questions of your choosing. Each answer should be on a scale of 1 to 5 based on how much the user agrees or disagrees with a question.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LevarB100/FriendFinder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LevarB100/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/LevarB100/FriendFinder#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-path": "^0.3.8"
+  }
+}
