@@ -31,5 +31,9 @@ $("#submit").on("click", function() {
 
   $.post("/api/friends", data, function(data) {
     console.log(data);
+
+    $(".modal").show();
+    $("#resultsname").text(data.name);
+    $("#resultspic").attr(data.photo);
   });
 });
