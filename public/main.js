@@ -34,6 +34,10 @@ $("#submit").on("click", function() {
 
     $(".modal").show();
     $("#resultsname").text(data.name);
-    $("#resultspic").attr(data.photo);
+    $("#resultspic").attr("src", data.photo);
   });
+});
+
+$("#close").on("click", function() {
+  $(".modal").hide();
 });
