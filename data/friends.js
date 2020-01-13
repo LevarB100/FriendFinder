@@ -4,11 +4,7 @@ const friends = [
     photo: "./images1/dude1.jpg",
     scores: [5, 1, 4, 4, 5, 1, 2, 5, 4, 1]
   },
-  {
-    name: "tom",
-    photo: "./images1/dude2.jpg",
-    scores: [3, 1, 4, 2, 5, 1, 2, 5, 1, 3]
-  },
+
   {
     name: "John",
     photo: "./images1/dude3.jpg",
