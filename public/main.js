@@ -14,7 +14,7 @@ $("#submit").on("click", function() {
 
   const data = {
     name: name,
-    photo: poto,
+    photo: photo,
     scores: [
       quest1,
       quest2,
