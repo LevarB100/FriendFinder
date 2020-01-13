@@ -5,12 +5,12 @@ Try it out:
 Installing
 To run the app locally, you will first need to git clone the repository to your local machine.
 
-HTTPS:
+HTTPS: $ git clone git@github.com:LevarB100/FriendFinder.git
 
-$ git clone git@github.com:LevarB100/FriendFinder.git
-SSH:
 
-$ git clone git@github.com:LevarB100/FriendFinder.git
+SSH:$ git clone git@github.com:LevarB100/FriendFinder.git
+
+
 Once cloned, cd into the repository and install the necessary dependencies by running:
 $ npm install
 
