@@ -32,7 +32,7 @@ $("#submit").on("click", function() {
   $.post("/api/friends", data, function(data) {
     console.log(data);
 
-    $(".modal").show();
+    $(".mdal").show();
     $("#resultsname").text(data.name);
     $("#resultspic").attr("src", data.photo);
   });
