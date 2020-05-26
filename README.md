@@ -25,11 +25,11 @@ $ node server.js
 
 ### Built With
 
-$Express.js - Node.js framework
-$jQuery - Front-end framework
-$Node.js - JavaScript runtime
-$npm - Dependency management
-$Bootstrap - CSS framework
+$ Express.js - Node.js framework
+$ jQuery - Front-end framework
+$ Node.js - JavaScript runtime
+$ npm - Dependency management
+$ Bootstrap - CSS framework
 
 
 ### Authors
