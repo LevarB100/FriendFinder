@@ -25,15 +25,15 @@ $ node server.js
 
 ### Built With
 
-Express.js - Node.js framework
-jQuery - Front-end framework
-Node.js - JavaScript runtime
-npm - Dependency management
-Bootstrap - CSS framework
+$Express.js - Node.js framework
+$jQuery - Front-end framework
+$Node.js - JavaScript runtime
+$npm - Dependency management
+$Bootstrap - CSS framework
 
 
 ### Authors
-See contribution history here
+$See contribution history here
 
 ### Future Updates
 At the moment, the app will check your survey results against a seed file with results from various fake "friends." In the future, I would like to add in a database in order to have users match against one another instead of the seed file.
